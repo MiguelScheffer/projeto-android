@@ -1,0 +1,169 @@
+body{
+    margin: 0%;
+   background-color: bisque;
+  
+}
+
+
+
+header{
+    background-image: linear-gradient(to bottom,#2A9A5D,#084121 ) ;
+    color: white;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    font-family: sans-serif;
+    margin: 0%;
+    height: 35vh;
+}
+#titulo1{
+    font-family: android;
+    color: #063D1E;
+    margin: 0%;
+}
+.android{
+    font-family: android;
+    color: #063D1E;
+    background-image: linear-gradient(to right,#95E5B9,white );
+}
+.verde{
+    color: #1A5C37;
+    background-color: #83E1AD;
+    padding: 1px;
+    margin: 1px;
+}
+a:hover{
+    background-color:#83E1AD;
+    border-radius: 15%;
+    transition-duration: 1s;
+    
+}
+menu{
+    text-align: start;
+    font-weight: bold;
+}
+a{
+    color: #069245;
+    size: 25px;
+    text-decoration: none;
+}
+main{
+    margin: auto;
+    box-shadow: 1px 1px 6px black;
+    background-color: white;
+    min-width: 300px;
+    max-width: 1000px;
+    padding: 10px;
+    
+}
+main img{
+    width: 100%;
+}
+p{
+    text-indent: 20px;
+}
+iframe{
+    width: 30vw;
+    height: 30vh;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+@font-face {
+    font-family: android;
+    src: url(font/IDroid.otf);
+
+}
+
+    
+    
+
+.div{
+    background-color: #83E1AD;
+    margin:10px 10px 10px 10px ;
+    border-radius: 4% 4% 4% 4%;
+}
+.div>p{
+    text-align: center;
+}
+
+.column {
+    width: 50%;
+    float: left;
+}
+
+aside > ul{
+    list-style-type: "\2714\00A0\00A0";
+    list-style-position: inside;
+    columns: 2;
+    
+}
+
+footer{
+    background-color: #063D1E;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    margin: 15px 0px 0px 0px;
+}
+.footer{
+    color: white;
+    
+}
+.footer>a{
+    color: white;
+}
+.footer>a:hover{
+  color: #2A9A5D;
+}
+
+    
+    
+
+
+.Bugdroid{
+   margin: auto;
+   max-width: 350px;
+   display: block;
+}
+.Irina{
+   margin: auto;
+    width: 100%;
+    
+
+}
+.dan{
+    margin: auto
+}
+aside{
+    border-radius: 5% 5% 5% 5%;
+    
+}
+h2{
+    background-color: #063D1E;
+    color: white;
+    border-radius: 5% 5% 5% 5%;
+}
+div.video{
+    background-color: #063D1E;
+    margin: 0px -11px 30px -11px;
+    padding: 20px;
+    padding-bottom: 58.5%;
+    position: relative;
+}
+div.video >iframe{
+   position: absolute;
+   top: 5% ;
+   left: 5%;
+   width: 84%;
+   height:90% ;
+}
+
+
+
